@@ -1,0 +1,23 @@
+span{
+    font-weight: bold;
+    background:grey;
+    padding: .3em .8em;
+    cursor:pointer;
+    user-select: none;
+}
+
+.play-container{
+    border:1px solid grey;
+    padding: 3em;
+}
+.active{
+    background-color:yellow;
+    border:4px solid black;
+    
+}
+
+.notactive{
+    background-color:orange;
+    border:2px solid black;
+    
+}
